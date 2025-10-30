@@ -1,1 +1,1 @@
-# Cloth Studio Template
+# Cloth Studio
